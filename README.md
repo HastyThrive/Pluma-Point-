@@ -1,4 +1,4 @@
-# Pluma-Point<!DOCTYPE html>
+# Pluma-Point
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            color: #333;
+            color: #FFFFFF;
         }
         header {
             background-color: #4CAF50;
